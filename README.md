@@ -1,6 +1,6 @@
 # Chuck Norris JOKES
 
-This project consists of thr GraphQL API Server which wraps around the ChuckNorris.io API
+This project consists of a GraphQL API Server which wraps around the ChuckNorris.io API
 It has a query type that resolves all Categories and a query type that resolves a random 
 joke given a Category as an argument and a React App Client which consumes the API.
 
